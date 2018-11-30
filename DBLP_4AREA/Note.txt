@@ -1,0 +1,4 @@
+DBLP four areas dataset: Data Mining, Machine Learning, Information Retrieval, Database.
+Originally from: Ji, Ming, et al. "Graph regularized transductive classification on heterogeneous information networks." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer Berlin Heidelberg, 2010.
+Folder \DBLP_four_area is the raw data.
+AC_Nets_v4 is the generated Author-Conference network.
