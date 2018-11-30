@@ -1,2 +1,0 @@
-1. Originally from: Marc A Van Driel, Jorn Bruggeman, Gert Vriend, Han G Brunner, and Jack AMLeunissen. 2006.   A text-mining analysis of the human phenome.Europeanjournal of human genetics14, 5 (2006), 535–542.
-2. 
